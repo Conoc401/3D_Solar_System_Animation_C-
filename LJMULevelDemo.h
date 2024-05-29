@@ -30,16 +30,7 @@ typedef std::shared_ptr<DrawExecutorDX11<CustomVertexDX11::Vertex>> CustomMeshPt
 
 namespace LJMUDX
 {
-	//////////////////////////////////////
-	//LJMULevelDemo.H
-	//Class Application for a DirectX 11
-	//Driven Application using the DirectX Toolkit
-	//Hieroglyph 3 Rendering Engine and LUA.
-	//
-	//
-	//AUTHORS:  DR PO YANG
-	//			DR CHRIS CARTER
-	//////////////////////////////////////
+
 
 	class LJMULevelDemo : public Application //Inherit from the Hieroglyph Base Class
 	{
