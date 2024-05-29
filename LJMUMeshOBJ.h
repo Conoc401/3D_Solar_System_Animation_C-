@@ -10,12 +10,6 @@
 #include "Vector3f.h"
 namespace LJMUDX
 {
-
-///////////////////////////////////////
-// PARSER FOR THE OBJ DATA FORMAT
-//
-// AUTHOR:  DR CHRIS CARTER
-///////////////////////////////////////
 class LJMUMeshOBJ
 {
 public:
