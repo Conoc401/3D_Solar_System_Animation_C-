@@ -30,14 +30,6 @@ namespace LJMUDX
 		};
 	};
 
-	/////////////////////////////////////////
-	// LJMUTEXTOVERLAY.H
-	// Class to simplify drawing of text elements
-	// using SpriteFont instances.
-	//
-	// AUTHORS:  DR Po Yang
-	//			 DR CHRIS CARTER
-	/////////////////////////////////////////
 	class LJMUTextOverlay : public Task
 	{
 	public:
